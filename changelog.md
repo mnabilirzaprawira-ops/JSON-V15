@@ -1,29 +1,19 @@
-🧊 Changelog: Magic Random Pro V15
-[V15.0] - 2026-03-15 (Singularity Core | Columbia Cryo)
+# 🎉 MAGIC RANDOM PRO V15.17 - SWEET 17TH EDITION 🎉
+*Architect:* Nabil Irza Prawira (@n4bilirz)
+*Release Date:** March 21, 2026 (17th Birthday Special)
 
-🖥️ New Singularity WebUI Dashboard
-Interactive Interface: Introduced a fully functional WebUI dashboard accessible via KernelSU or APatch manager.
-Columbia-Cryo Theme: Implemented a "Liquid Glass Water" visual aesthetic inspired by the Doves of Fatui (Genshin Impact).
-Real-time Monitoring: Added live tracking for System OS, Kernel version, Thermal Core temperatures, and Liquid-RAM availability.
-Integrated Support: Added a dedicated Author panel and a QRIS-based donation system directly within the dashboard.
+# ❄️ [ THE ABSOLUTE ZERO EVOLUTION ] ❄️
+This is a monumental release to celebrate the Lead Modder's 17th Birthday! We've pushed the boundaries of Android Kernel optimization by merging the legacy codes from V8 to V14 into a single, unified Singularity Core.
 
-🛡️ Core & Spoofing Enhancements
-Singularity Spoofing: Updated device identity and build fingerprint to Pixel 10 Pro (Husky Android 14) for exclusive feature access.
-Legacy Consolidation: Successfully merged and optimized all legendary features from V8 through V14, including Aether Compiler, Quantum Net, and HW Acceleration.
-Watchdog Protection: Enhanced the post-fs-data safety mechanism to automatically disable the module if a boot-loop is detected.
+*[ NEW FEATURES & OPTIMIZATIONS ]*
+* Columbina WebUI Dashboard:** A fully interactive, Glassmorphism-based UI accessible directly via KernelSU / APatch manager. 
+* Harmonic Sync Protocol:** Advanced `drop_caches` execution for instant RAM & I/O cache cleansing.
+* Delusion Torrent (Overclock):** Bypasses thermal throttling limits and forces aggressive CPU `performance` scaling.
+* Glacial Sleep (Thermal Guard):** Reverts to `schedutil` for maximum battery preservation and device cooling.
+* Crystallize I/O:** Automatic defragmentation (`fstrim` & `VACUUM`) for 40+ system SQLite databases to restore read/write speeds.
+* Singularity Spoofing:** Seamlessly spoofs device identity to Pixel 10 Pro to bypass restrictions.
+* Legacy Merges:** Includes V14 Aether Compiler (ART Speed Profile) and V13 Quantum Network (TCP Westwood & Window Scaling).
 
-⚡ Cryo-Execution Protocols (Interactive Commands)
-Harmonic Sync (RAM Boost): Advanced script to clear RAM, drop caches, and freeze background I/O tasks for instant fluidity.
-Delusion Torrent (Gaming Mode): Forces CPU governors to performance, disables thermal throttling, and maximizes SurfaceFlinger stability for high-FPS gaming.
-Glacial Sleep (Battery Mode): Re-enables thermal guards and switches CPU logic to schedutil to preserve battery life during idle or light use.
-Crystallize I/O (Database Vacuum): Automatically defragments and optimizes over 40+ system and app databases using SQLite3 vacuuming.
+*"Harness the Unpredictable. Welcome to the era of eternity."* ```
 
-🛠️ System Optimizations
-I/O Scheduler Tuning: Optimized block device queues with read_ahead_kb set to 256 and disabled add_random for faster data access.
-ZRAM LZ4 & Swappiness: Configured high-speed memory compression using the LZ4 algorithm with balanced swappiness.
-ART Compiler & HW Accel: Enforced "speed" filter for DEX2OAT compilations and forced hardware-level UI rendering via OpenGL.
-
-📝 Installation Notes
-KernelSU/APatch Required: To access the WebUI, this module must be installed on a supported kernel manager.
-Handshake Protocol: Upon first boot, the system will perform a "Columbia-Cryo-Link" handshake to synchronize hardware parameters.
-Developer Note: Respect to the Android legends (JesusFreke, Cyanogen, TopJohnWu) who paved the way. This version marks the ultimate evolution of the Magic Random Pro project.
+Sikat bos! Tinggal lu *commit* dan *push* kedua file ini ke GitHub lu. Nanti pas *user* buka KSU atau WebUI, sistem bakal langsung ngambil data dari JSON lu dan ngasih tau kalau kado ulang tahun V15.17 udah siap diunduh! 🔥🚀❄️
